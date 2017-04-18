@@ -1,0 +1,1 @@
+type image_base64 | "C:\OpenServer\modules\php\PHP-5.5\php.exe" -c . "C:\Users\ratuvog\PhpstormProjects\barcode-reader\main.php" --input
